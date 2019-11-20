@@ -1,0 +1,2 @@
+include ':app', ':playservices'
+rootProject.name='Makedependency'
